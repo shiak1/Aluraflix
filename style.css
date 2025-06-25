@@ -65,5 +65,10 @@ p{
 
 .categoria h2{
     color: rgb(202,164,120);
-    
+
+}
+
+.video-principal img:hover{
+    opacity: 1.0;
+    border:solid green
 }
