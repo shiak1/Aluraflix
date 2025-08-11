@@ -20,8 +20,9 @@ background: rgb(126,57,64);
 padding-bottom: 80px;
 padding-top: 80px;
 display: flex;
-justify-content: center;
+justify-content: space-evenly;
 align-items: center;
+gap: 50px;
 }
 
 .chamada-texto {
@@ -69,11 +70,6 @@ p{
 }
 
 .video-principal img:hover{
-    opacity: 1.0;
-    border:solid green
-}
-
-.video-secundario img:hover{
     opacity: 1.0;
     border:solid green
 }
