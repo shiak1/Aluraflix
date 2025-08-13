@@ -22,7 +22,9 @@ padding-top: 80px;
 display: grid;
 justify-content: center;
 align-items: center;
-gap: 50px;
+gap: 30px;
+border-bottom: solid 2px rgb(202,164,120);
+
 }
 
 .chamada-texto {
